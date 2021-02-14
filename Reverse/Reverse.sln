@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Reverse", "Reverse\Reverse.fsproj", "{D8F6232B-0793-4BBB-83D3-DBAED7CCAC8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8F6232B-0793-4BBB-83D3-DBAED7CCAC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F6232B-0793-4BBB-83D3-DBAED7CCAC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F6232B-0793-4BBB-83D3-DBAED7CCAC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F6232B-0793-4BBB-83D3-DBAED7CCAC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
